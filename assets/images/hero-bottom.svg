@@ -1,0 +1,9 @@
+<svg width="1920" height="153" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path fill-rule="evenodd" fill="#fff" d="m0,217.33331l1920,0l0,-187s-479.83,120 -960,120c-479.833,0 -960,-120 -960,-120l0,187z" class="cls-1" id="Shape"/>
+  <path stroke="#ffff56" stroke-width="2px" fill="none" fill-rule="evenodd" d="m2.00006,85.6668s379.833,50 860,50c479.83,0 1060,-100 1060,-100" class="cls-2" data-name="Curve Line 1" id="Curve_Line_1"/>
+  <path stroke="#ffff56" stroke-width="2px" fill="none" fill-rule="evenodd" d="m8.83339,1.66669s479.833,150 960,150c479.83,0 960,-70 960,-70" class="cls-3" data-name="Curve Line 2" id="Curve_Line_2"/>
+ </g>
+</svg>
