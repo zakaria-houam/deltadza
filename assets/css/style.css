@@ -48,6 +48,12 @@ h5, h5 a { font-size: 1.118em; line-height: 1.3em; }
 h6, h6 a { font-size: 1.000em; line-height: 1.8em; }
 strong { font-size: 1.000em; line-height: 25px; font-weight: 700; }
 .small { font-size: 0.750em; line-height: 1.8em; }
+*{
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; 
+}
 /* text sizes */
 .text-size-xxl { font-size: 68px; line-height: 68px; }
 .text-size-xl { font-size: 47px; line-height: 52px; }
